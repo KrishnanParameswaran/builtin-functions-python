@@ -1,3 +1,4 @@
+### map()
 
 map() function applies a given function to each item in a given iterable (list, tuple, etc)
 
