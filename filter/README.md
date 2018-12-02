@@ -4,13 +4,13 @@ filter() method filters each element in the given iterable with the given functi
 
 Syntax: filter(func, iter)
 
-func: it is the function to which filter passes each element of given iterable
-iter: it is the iterable which is to be filtered
+func: it is the function to which filter passes each element of given iterable  
+iter: it is the iterable which is to be filtered  
 
--> The result of filter() function can be passed to list() and set()
--> Can use lambda expressions along with filter()
--> An iterable is something that can be looped over and its definition requires implementation of __iter__() and __next__() methods
--> An iterator is an object that remembers its state and is created by applying the iter() method on the iterable. The next value in the iteration can be obtained using next() method
+-> The result of filter() function can be passed to list() and set()  
+-> Can use lambda expressions along with filter()  
+-> An iterable is something that can be looped over and its definition requires implementation of __iter__() and __next__() methods  
+-> An iterator is an object that remembers its state and is created by applying the iter() method on the iterable. The next value in the iteration can be obtained using next() method  
 
 Executing instructions: 
 1) Fork the repository
